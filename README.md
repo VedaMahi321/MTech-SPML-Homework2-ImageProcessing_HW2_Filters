@@ -22,7 +22,7 @@ Both **manual implementations** and **MATLAB built-in functions** are provided, 
 ├── Q2_3_Laplacian_Function.m
 ├── Q2_4_NonLocalMeans.m
 ├── results/        # Output images & graphs
-└── report/         # Word/PDF report files
+└── report/         # PDF report file
 ```
 
 ---
